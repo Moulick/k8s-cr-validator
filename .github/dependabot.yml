@@ -13,7 +13,7 @@ updates:
       interval: "weekly"
     commit-message:
       prefix: ":seedling:"
-      
+
   # Maintain dependencies for Docker
   - package-ecosystem: "docker"
     directory: /
