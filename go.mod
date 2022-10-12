@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/fatih/color v1.13.0
 	github.com/hashicorp/go-multierror v1.1.1
-	github.com/spf13/cobra v1.5.0
+	github.com/spf13/cobra v1.6.0
 	github.com/yannh/kubeconform v0.4.14
 	k8s.io/apiextensions-apiserver v0.20.12
 	k8s.io/apimachinery v0.20.12
@@ -24,7 +24,7 @@ require (
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/google/gofuzz v1.1.0 // indirect
 	github.com/hashicorp/errwrap v1.0.0 // indirect
-	github.com/inconshreveable/mousetrap v1.0.0 // indirect
+	github.com/inconshreveable/mousetrap v1.0.1 // indirect
 	github.com/json-iterator/go v1.1.11 // indirect
 	github.com/mailru/easyjson v0.7.0 // indirect
 	github.com/mattn/go-colorable v0.1.9 // indirect
