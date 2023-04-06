@@ -1,6 +1,6 @@
 module github.com/moulick/k8s-cr-validator
 
-go 1.19
+go 1.20
 
 require (
 	github.com/fatih/color v1.15.0
