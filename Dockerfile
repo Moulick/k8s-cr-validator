@@ -1,4 +1,4 @@
-FROM docker.io/library/golang:1.19-alpine as builder
+FROM docker.io/library/golang:1.20-alpine as builder
 LABEL org.opencontainers.image.authors=moulickaggarwal
 
 WORKDIR /app
