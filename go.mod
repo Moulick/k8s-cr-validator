@@ -7,7 +7,7 @@ toolchain go1.23.4
 require (
 	github.com/fatih/color v1.18.0
 	github.com/hashicorp/go-multierror v1.1.1
-	github.com/spf13/cobra v1.8.0
+	github.com/spf13/cobra v1.9.0
 	github.com/yannh/kubeconform v0.4.14
 	k8s.io/apiextensions-apiserver v0.20.12
 	k8s.io/apimachinery v0.20.12
@@ -32,7 +32,7 @@ require (
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
-	github.com/spf13/pflag v1.0.5 // indirect
+	github.com/spf13/pflag v1.0.6 // indirect
 	github.com/xeipuuv/gojsonpointer v0.0.0-20190905194746-02993c407bfb // indirect
 	github.com/xeipuuv/gojsonreference v0.0.0-20180127040603-bd5ef7bd5415 // indirect
 	github.com/xeipuuv/gojsonschema v1.2.0 // indirect
