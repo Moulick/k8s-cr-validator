@@ -10,7 +10,7 @@ require (
 	k8s.io/apiextensions-apiserver v0.20.12
 	k8s.io/apimachinery v0.20.12
 	k8s.io/kube-openapi v0.0.0-20241212222426-2c72e554b1e7
-	sigs.k8s.io/yaml v1.5.0
+	sigs.k8s.io/yaml v1.6.0
 )
 
 require (
