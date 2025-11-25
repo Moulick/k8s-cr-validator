@@ -9,7 +9,7 @@ require (
 	github.com/yannh/kubeconform v0.4.14
 	k8s.io/apiextensions-apiserver v0.20.12
 	k8s.io/apimachinery v0.20.12
-	k8s.io/kube-openapi v0.0.0-20250902184714-7fc278399c7f
+	k8s.io/kube-openapi v0.0.0-20251125145642-4e65d59e963e
 	sigs.k8s.io/yaml v1.6.0
 )
 
